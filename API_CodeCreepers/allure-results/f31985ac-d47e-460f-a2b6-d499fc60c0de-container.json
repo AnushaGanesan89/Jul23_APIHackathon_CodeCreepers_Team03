@@ -1,1 +1,0 @@
-{"uuid":"f31985ac-d47e-460f-a2b6-d499fc60c0de","name":"Scenario Outline: Check if user able to retrieve a grades with invalid batch ID","children":["d782cb35-b0f8-4ce9-8ac0-5614389d4b63"],"befores":[],"afters":[],"start":1690395672656,"stop":1690395672873}

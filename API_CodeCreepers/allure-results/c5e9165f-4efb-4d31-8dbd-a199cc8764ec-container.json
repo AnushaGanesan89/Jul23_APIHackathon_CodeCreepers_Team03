@@ -1,1 +1,0 @@
-{"uuid":"c5e9165f-4efb-4d31-8dbd-a199cc8764ec","name":"Scenario Outline: Check if user able to retrieve a submission with invalid user ID","children":["be78bd22-ada9-4b37-a4f3-efd7dec9e378"],"befores":[],"afters":[],"start":1690398246223,"stop":1690398246397}

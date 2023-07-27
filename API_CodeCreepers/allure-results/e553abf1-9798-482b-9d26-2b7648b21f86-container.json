@@ -1,1 +1,0 @@
-{"uuid":"e553abf1-9798-482b-9d26-2b7648b21f86","name":"Scenario Outline: Check if user able to update a submission with valid submission ID and missing mandatory fields request body","children":["e57230b5-7199-4b67-93ac-9db78536dc1e"],"befores":[],"afters":[],"start":1690434837454,"stop":1690434837982}

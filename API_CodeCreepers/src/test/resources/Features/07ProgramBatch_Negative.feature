@@ -63,7 +63,7 @@ Background: User sets Authoization to No  Auth
 
     Examples: 
       | ID    | SheetName       | RowNumber |
-      | 11356 | ProgramBatch    |         1 |
+      | 11356 | ProgramBatch    |         4 |
 
   Scenario Outline: Check user is able to delete batch with invalid programname
     Given User create delete request with invalid batchid
