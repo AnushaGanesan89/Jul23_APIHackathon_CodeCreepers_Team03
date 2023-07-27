@@ -1,0 +1,1 @@
+{"uuid":"e7324676-9781-4f5d-8198-b404320b0c71","name":"Scenario Outline: create a program with missing mandatory field in request body","children":["e2e0f020-c987-4ab7-be2c-3a4e46ca3bfd"],"befores":[],"afters":[],"start":1690443385917,"stop":1690443386657}

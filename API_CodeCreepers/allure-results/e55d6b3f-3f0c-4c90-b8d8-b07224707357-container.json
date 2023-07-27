@@ -1,0 +1,1 @@
+{"uuid":"e55d6b3f-3f0c-4c90-b8d8-b07224707357","name":"Scenario Outline: Update a batch with valid batchid and missing mandatory feilds from request body","children":["98cb6457-4cbe-40d1-bc74-e5adcb5ac0e0"],"befores":[],"afters":[],"start":1690431815056,"stop":1690431818700}

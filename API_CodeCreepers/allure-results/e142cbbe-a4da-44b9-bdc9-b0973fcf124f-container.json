@@ -1,0 +1,1 @@
+{"uuid":"e142cbbe-a4da-44b9-bdc9-b0973fcf124f","name":"Scenario Outline: Check if user able to  grade assignment with valid submission  Id and mandatory request body","children":["50251c9a-e581-4ea1-b29a-96b38c786c07"],"befores":[],"afters":[],"start":1690446913798,"stop":1690446914296}

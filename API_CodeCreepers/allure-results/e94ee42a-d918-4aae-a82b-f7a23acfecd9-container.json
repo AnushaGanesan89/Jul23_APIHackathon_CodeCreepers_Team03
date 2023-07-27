@@ -1,0 +1,1 @@
+{"uuid":"e94ee42a-d918-4aae-a82b-f7a23acfecd9","name":"Scenario Outline: Check if user is able to retrive assinment submissions  with valid batchid LMS API endpoints","children":["fa4fffe7-c45c-41f2-b343-6e42e646bc8e"],"befores":[],"afters":[],"start":1690427039354,"stop":1690427039645}

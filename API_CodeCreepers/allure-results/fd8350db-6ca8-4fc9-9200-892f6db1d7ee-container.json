@@ -1,0 +1,1 @@
+{"uuid":"fd8350db-6ca8-4fc9-9200-892f6db1d7ee","name":"Scenario Outline: Check if user able to retrieve a record with valid Batch ID","children":["62aa603e-2f62-4db6-93b2-62acfd18c7fe"],"befores":[],"afters":[],"start":1690395664974,"stop":1690395665211}
